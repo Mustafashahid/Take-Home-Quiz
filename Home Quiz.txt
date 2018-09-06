@@ -1,0 +1,50 @@
+Quetion 01 How to launch swi-prolog on command line?
+Answer: to launch swi-prolog on command line we use "swipl" Command.
+   
+Quetion 02: What is the extension of a prolog Knowledge Base?
+Answer: ".pl" is the extension of a prolog knowledge base.
+
+Quetion 03: How to load a knowledge base in prolog?
+Answer: ".pl" use this command for load the knowladge base.
+for Example:(kb1.pl) is the Command to Open the Knowledge base And 
+woman(mia).
+woman(jody).
+woman(yolanda).
+playsAirGuitar(jody). 
+this is the Knowledge Base.
+
+Quetion 04: How to exit a prolog session?
+Answer: Use "halt" Command for Exit a Prolog Session.
+
+Quetion 05: How to get help on a topic from within prolog?
+Answer: You Can get help from prolog enviromental tutorial.From http://www.swi-prolog.org/
+
+
+Quetion 06: What is an atom?
+Answer: An atom is either:
+A string of characters made up of upper-case letters, lower-case letters, digits,and the underscore character, that begins with a lower-case letter.
+Here are some examples: butch , big_kahuna_burger , listens2Music and playsAirGuitar 
+
+Quetion 07: What is a term?
+Answer:  Atoms and numbers are lumped together under the heading constants, and constants and variables together make up the 
+terms of Prolog.
+
+Quetion 08: What is functor?
+Answer: In Prolog, the word functor is used to refer to the atom at the start of a structure, along with its arity, that is, the number of arguments it takes.
+
+Quetion 09: What are complex terms?
+Answer: Complex terms are build out of a functor followed by a sequence of arguments. The arguments are put in ordinary parentheses, separated by commas, and placed after the functor.
+
+Quetion 10: What is predicate?
+Answer: A predicate denotes a property or relationship between two objects.
+
+Quetion 11: What is arity of predicate?
+Answer: A predicate with pred and N arguments is denoted by Pred/N,.Here 'N' is called the arity of the predicate.
+
+Quetion 12: What is unification?
+Answer: The way in which Prolog matches two terms is called unification.
+For Example : student(x)  This process is called unification
+
+
+
+
